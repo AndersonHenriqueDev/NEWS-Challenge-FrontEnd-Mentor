@@ -1,2 +1,8 @@
-# NEWS-Challenge-FrontEnd-Mentor
-Desafio do Programa Front-End Mentor, uma landing page. (En-US): A challenge of Front-End Mentor, a landing page.
+# Frontend Mentor - News homepage
+
+![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
+
+Uma Landing page feita com bootstrap e design responsivo se adaptando em todos os tamanhos de tela.
+
+<h5>Espero que goste!</h5>
+- Aproveita e me segue no LinkedIn!!🧑‍💻💜
